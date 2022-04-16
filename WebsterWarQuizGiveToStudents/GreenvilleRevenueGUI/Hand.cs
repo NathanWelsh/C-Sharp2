@@ -8,6 +8,7 @@ namespace GreenvilleRevenueGUI
 {
     //**********************************************
     // Written by: Dr. Roger Webster
+    // Written by: Nathan Welsh
     // For: COP 2362 C# Programming II
     // Where: FSW Computer Science Program www.fsw.edu
     // Professor: Dr. Roger Webster
